@@ -32,7 +32,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord" />
