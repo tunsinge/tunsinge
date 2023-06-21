@@ -26,8 +26,20 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-<br clear="left"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord" />
+</picture>
+
+<br clear="left">
+<br>
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![c-lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
