@@ -52,5 +52,24 @@
 ---
 # More about me
 
-[![Foxan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true&theme=nord#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Foxan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true&theme=nord"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<br clear="left"/>
+
+[![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://42born2code.slack.com/team/U04976ZHCMS)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/363780855002300416)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibaut-unsinger-b07467221)
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![c-lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
