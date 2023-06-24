@@ -83,8 +83,8 @@
 
 ## 📕 Fifth Circle
 * ### 📋 Modules CPP
-  - #### CPP05 [![tunsinge's 42 Cybersecurity Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3092305)](https://github.com/JaeSeoKim/badge42)
-  - #### CPP06
+  - #### CPP05 [![tunsinge's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3131952)](https://github.com/JaeSeoKim/badge42)
+  - #### CPP06 [![tunsinge's 42 Cybersecurity Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3092305)](https://github.com/JaeSeoKim/badge42)
   - #### CPP07
   - #### CPP08
   - #### CPP09
