@@ -71,7 +71,7 @@
 * ### 🎓 Exam Rank 03 [![tunsinge's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/2988135)](https://projects.intra.42.fr/exam-rank-03/tunsinge)
 
 ## 📙 Fourth Circle
-* ### 🖧 NetPractice [![tunsinge's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3064800)](https://projects.intra.42.fr/netpractice/tunsinge)
+* ### 🕸 NetPractice [![tunsinge's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3064800)](https://projects.intra.42.fr/netpractice/tunsinge)
 * ### 📦 Cub3D [![tunsinge's 42 cub3d Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3081587)](https://projects.intra.42.fr/cub3d/tunsinge)
 * ### 📋 Modules CPP
   - #### CPP00  [![tunsinge's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/project/3076838)](https://projects.intra.42.fr/cpp-module-00/tunsinge)
