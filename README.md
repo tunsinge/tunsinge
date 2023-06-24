@@ -54,5 +54,7 @@
 
 You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects).
 
+![42Cursus-holy-graph](holy_graph.png)
+
 ---
 <img align="left" src="Plume_Foxan_fd.png"/>
