@@ -49,7 +49,7 @@
 # My 42 School Cursus
 
 <a href="https://profile.intra.42.fr/users/tunsinge">
-  <img align="center" src="https://badge42.vercel.app/api/v2/clj5fwpk3001109mkds91eu8r/stats?cursusId=21&coalitionId=333" alt="tunsinge's 42 stats"/>
+  <img align="center" src="https://badge.mediaplus.ma/darkblue/tunsinge?1337Badge=off&UM6P=off" alt="tunsinge's 42 stats"/>
 </a>
 
 You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects).
