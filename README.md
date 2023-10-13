@@ -1,7 +1,7 @@
 ![Banner](banner3.png)
 ---
 
-<h1> Hi, I'm Thibaut Unsinger </h1> also known by the username Foxan or <a href="https://profile.intra.42.fr/users/tunsinge">tunsinge<a/>. I am very interested in programmation and computer science in general and i'm currently studying at <a href="https://42.fr/en/homepage/">42 School<a/> with a view to working as developper at a later stage.
+<h1> Hi, I'm Foxan </h1> I am very interested in programmation and computer science in general and i'm currently studying at <a href="https://42.fr/en/homepage/">42 School<a/> with a view to working as developper at a later stage.
 <br clear="left"/>
 
 ---
