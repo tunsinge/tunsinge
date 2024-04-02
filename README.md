@@ -50,7 +50,7 @@
 
 You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects) (for 42 students).
 
-![42Cursus-holy-graph](holy_graph2.png)
+![42Cursus-holy-graph](holy_graph3.png)
 
 ---
 <img align="left" src="Plume_Foxan_fd.png"/>
