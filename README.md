@@ -48,7 +48,7 @@
 ---
 # My 42 School Cursus
 
-You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects) (for 42 students).
+You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects).
 
 ![42Cursus-holy-graph](holy_graph3.png)
 
