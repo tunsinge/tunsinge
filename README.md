@@ -48,11 +48,7 @@
 ---
 # My 42 School Cursus
 
-<a href="https://profile.intra.42.fr/users/tunsinge">
-  <img align="center" src="https://badge.mediaplus.ma/darkblue/tunsinge?1337Badge=off&UM6P=off" alt="tunsinge's 42 stats"/>
-</a>
-
-You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects).
+You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects) (for 42 students).
 
 ![42Cursus-holy-graph](holy_graph2.png)
 
