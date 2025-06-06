@@ -16,26 +16,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true&theme=nord"
+    srcset="https://github-readme-stats.vercel.app/api?username=tunsinge&show_icons=true&theme=nord"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=tunsinge&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thefoxan12&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tunsinge&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tunsinge&layout=compact&theme=nord"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tunsinge&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefoxan12&layout=compact&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunsinge&layout=compact&theme=nord" />
 </picture>
 
 <br clear="left">
@@ -48,7 +48,7 @@
 ---
 # My 42 School Cursus
 
-You can take a look at my 42Cursus projects [right there](https://github.com/TheFoxan12/42Projects).
+You can take a look at my 42Cursus projects [right there](https://github.com/tunsinge/42Projects).
 
 ![42Cursus-holy-graph](holy_graph3.png)
 
